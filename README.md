@@ -1,6 +1,6 @@
 # HOVE – Home on Virtual Ecosystem
 
-⚡ Your digital home, reimagined. Hang out, share moments, and connect with people who get you.
+⚡ Your digital home, reimagined.Share moments, and connect with people who get you.
 
 📖 About HOVE
 
