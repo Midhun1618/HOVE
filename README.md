@@ -22,15 +22,10 @@ Think of it as your virtual neighborhood—a space that feels like home, but onl
 
 🛠️ Tech Stack (Planned)
 
-Frontend: React.js / Next.js (for dynamic and smooth UI)
+Frontend: React.js
 
 Backend: Node.js + Express
 
-Database: MongoDB (scalable & flexible)
-
-Authentication: JWT / OAuth2
-
-Hosting: Vercel / Netlify (frontend), Render / AWS (backend)
 
 📌 Roadmap
 
@@ -39,21 +34,7 @@ Hosting: Vercel / Netlify (frontend), Render / AWS (backend)
 🔜 Expand Ecosystem – Messaging, groups, events, and more
 🌍 Public Launch – Let the world step into HOVE
 
-🤝 Contributing
-
 We’re building HOVE as a community-first project. Contributions are welcome!
-
-Fork the repo 🍴
-
-Create a new branch 🌱
-
-Make your changes ✨
-
-Submit a pull request 🚀
-
-📜 License
-
-This project is licensed under the MIT License – feel free to use and improve it.
 
 💡 Vision
 
