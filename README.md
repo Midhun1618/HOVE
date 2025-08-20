@@ -1,7 +1,6 @@
 # HOVE – Home on Virtual Ecosystem
 
 ⚡ Your digital home, reimagined.Share moments, and connect with people who get you.
-
 📖 About HOVE
 
 HOVE (Home on Virtual Ecosystem) is a next-gen social media platform designed to create a vibrant virtual space where people can interact, share, and build meaningful connections. Unlike generic social apps, HOVE is built around community, creativity, and vibe-driven networking.
